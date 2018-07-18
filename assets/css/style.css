@@ -7,6 +7,8 @@
 #navbar {
   margin-top: 20px;
   margin-left: 10px;
+  color: white;
+  text-shadow: -.5px 0 black, 0 .5px black, .5px 0 black, 0 -.5px black;
 }
 h4 {
   padding-left: 20px;
@@ -15,4 +17,20 @@ h4 {
 body {
   background-image: url(../images/pnw.jpg);
   background-size: cover;
+}
+
+#introBox {
+  background-color:rgba(24,46,32,0.3);
+  text-align: center;
+  margin-top: 80px;
+  color: white;
+  text-shadow: -.5px 0 black, 0 .5px black, .5px 0 black, 0 -.5px black;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+#nicole {
+  font-size: 75px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
