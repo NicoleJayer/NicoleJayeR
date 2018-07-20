@@ -11,7 +11,7 @@
   text-shadow: -.5px 0 black, 0 .5px black, .5px 0 black, 0 -.5px black;
 }
 .sectionHeight {
-  height: 90vh;
+  height: 100vh;
 }
 
 .clearFix::after{
