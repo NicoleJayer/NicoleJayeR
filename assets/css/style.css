@@ -10,8 +10,9 @@
   color: white;
   text-shadow: -.5px 0 black, 0 .5px black, .5px 0 black, 0 -.5px black;
 }
+
 .sectionHeight {
-  height: 100vh;
+  height: 90vh;
 }
 
 .clearFix::after{
@@ -75,4 +76,8 @@ body {
 
 p {
   float: left;
+}
+
+.skillSection {
+  margin-top: 300px;
 }
