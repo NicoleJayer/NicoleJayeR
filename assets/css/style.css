@@ -1,11 +1,11 @@
 .navBarButtons {
   float: left;
   display: flex;
-  margin-top: 15px;
+  margin-top: 25px;
 }
 
 #navbar {
-  margin-top: 20px;
+  margin-top: 10px;
   margin-left: 10px;
   color: white;
   text-shadow: -.5px 0 black, 0 .5px black, .5px 0 black, 0 -.5px black;
@@ -21,7 +21,7 @@
   clear: both;
 }
 
-h4 {
+h5 {
   padding-left: 20px;
 }
 

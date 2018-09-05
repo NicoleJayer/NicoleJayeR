@@ -11,5 +11,18 @@ $(document).scroll(function() {
   if (y > 1000) {
     $('#skillsBox').show();
   }
-  
+
 });
+
+
+  document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.scrollspy');
+    var instances = M.ScrollSpy.init(elems, options);
+  });
+
+  // Or with jQuery
+
+  $(document).ready(function(){
+    $("#aboutBox").show();
+    $('.scrollspy').scrollSpy();
+  });
