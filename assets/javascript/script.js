@@ -12,6 +12,7 @@ $(document).scroll(function() {
     $('#skillsBox').show();
   }
 
+  
 });
 
 
@@ -21,8 +22,3 @@ $(document).scroll(function() {
   });
 
   // Or with jQuery
-
-  $(document).ready(function(){
-    $("#aboutBox").show();
-    $('.scrollspy').scrollSpy();
-  });
