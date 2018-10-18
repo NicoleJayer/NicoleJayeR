@@ -95,4 +95,12 @@ p {
 .card-img-top {
   width: 238px;
   height: 300px;
+  border: 5px;
+  border-style: solid;
+  border-color: white;
+}
+
+.card-title {
+  text-align: center;
+  
 }
