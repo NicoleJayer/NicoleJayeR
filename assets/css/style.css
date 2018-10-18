@@ -88,3 +88,11 @@ p {
   padding-left: 20px;
   padding-bottom: 20px;
 }
+
+.card-header {
+}
+
+.card-img-top {
+  width: 238px;
+  height: 300px;
+}

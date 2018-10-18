@@ -1,6 +1,8 @@
 $("#aboutBox").hide();
 $("#skillsBox").hide();
 
+$(document).ready(function() {
+  console.log( "ready!" );
 
 $(document).scroll(function() {
   var y = $(this).scrollTop();
@@ -22,3 +24,4 @@ $(document).scroll(function() {
   });
 
   // Or with jQuery
+)};
