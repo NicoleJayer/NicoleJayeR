@@ -2,6 +2,7 @@
   float: left;
   display: flex;
   margin-top: 25px;
+  margin-left: 250px;
 }
 
 #navbar {
@@ -104,3 +105,7 @@ p {
   text-align: center;
   
 }
+
+a { 
+  color: inherit; 
+} 
