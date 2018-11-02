@@ -109,3 +109,7 @@ p {
 a { 
   color: inherit; 
 } 
+
+.projectTitle {
+  color: black;
+}
